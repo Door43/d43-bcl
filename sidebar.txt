@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bcl:home|Door43 (bcl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bcl|d43-bcl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bcl/archive/master.zip|d43-bcl.zip]]
+
+**Recent Changes**
+{{changes>ns = bcl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bcl|Ethnologue data]]
+
